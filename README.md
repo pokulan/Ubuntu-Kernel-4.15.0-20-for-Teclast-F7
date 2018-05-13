@@ -12,5 +12,5 @@
 #### - If everything install fine restart the system! 
 
 ### If you have any problems please write to me: wojtekzom@gmail.com
-### Should works also with different linux distros, but didn't check that yet so be carefull.
+### Should works also with different linux distros, but didn't check that yet so be careful.
 ### Have a nic day!
