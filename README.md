@@ -1,4 +1,4 @@
-# Ubuntu 18.04 Kernel-4.15.0-20 for Teclast F7
+# Ubuntu 18.04 Kernel-4.15.0-20 for Teclast F7 or F6 Pro
 ## By Wojciech Zomkowski (pokulan)
 
 ### How to install:
