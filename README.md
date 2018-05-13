@@ -7,7 +7,7 @@
 #### - Open terminal then type: sudo apt-get update
 #### - Type command: sudo apt-get build-dep linux-image-$(uname -r)
 #### - Unzip downloaded kernel files to home directory
-#### - Type in terminal (in home directory): sudo dpkg -i linux*4.14.0-20*.deb
+#### - Type in terminal (in home directory): sudo dpkg -i linux\*4.15.0-20\*.deb
 #### Note: "4.15.0-20" is kernel version, change it if needed
 #### - If everything install fine restart the system! 
 
