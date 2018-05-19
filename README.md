@@ -16,9 +16,13 @@
 #### - Disable Fast Boot in Boot section in BIOS
 #### - Use Etcher to create bootable USB
 
-### Distros which boot fine: Ubuntu, KaOS
+### Distros which boot fine: Ubuntu, Lubuntu, KaOS
 ### Distros which do not want to boot: Elementary OS, GParted, YUMI created pendrives
+
 #### I'm waiting for my M2 SSD to check if this kernel works wih KaOS and if more distros would boot up I would check also with them. Anyway I will build custom kernel also for KaOS if this one doesn't work, because KaOS is more lightweight.
+
+#### UPDATE!
+### I received my SSD and installed Lubuntu 18.04 with this custom kernel, works awesome. I suggest you to instal KDE Plasma GUI (looks and works beautiful!). System with software (Android Studio, Gimp, DVB-t, Libre office...) use about 25GB, Windows 10 for example uses 30GB out of the box after installing all updates... ;)
 
 ### If you have any problems please write to me: wojtekzom@gmail.com
 ### Should works also with different linux distros, but didn't check that yet so be careful.
