@@ -2,14 +2,18 @@
 ## By Wojciech Zomkowski (pokulan)
 
 ## How to install:
-#### - Install Ubuntu 18.04 (create bootable usb using etcher)
-#### - Open terminal then type: sudo apt-get update
-#### - Type command: sudo apt-get install git build-essential kernel-package fakeroot libncurses5-dev libssl-dev ccache
-#### - Then type: sudo apt-get update
+#### - Install Ubuntu/Lubuntu 18.04 (create bootable usb using etcher)
+#### - Open terminal then type: "sudo apt-get update"
+#### - Type command: "sudo apt-get install git build-essential kernel-package fakeroot libncurses5-dev libssl-dev ccache"
+#### - Then type: "sudo apt-get update"
+#### - Then type: "uname -r" and note your kernel version exmpl. 4.15.0-22 or 4.15.0-20...
+#### - Remove your current kernel: "sudo apt remove linux-image-4.15.0-22-generic linux-headers-4.15.0-22-generic"
+#### Note: "4.15.0-22" is your current kernel version, change it to your version noted before.
 #### - Unzip downloaded kernel files to home directory
-#### - Type in terminal (in home directory): sudo dpkg -i linux\*4.15.0-20\*.deb
-#### Note: "4.15.0-20" is kernel version, change it if needed
-#### - If everything install fine restart the system! 
+#### - Type in terminal (in home directory): "sudo dpkg -i linux\*4.15.0-20\*.deb"
+#### Note: "4.15.0-20" is downloaded kernel version, change it if needed
+#### - Sometimes you need to run: "sudo apt-get install fix" because there accure an error
+#### - If everything (mostly everything because one package will throw an error) install fine restart the system! 
 
 ## Teclast F7 linux boot tips:
 #### - Disable Secure Boot in Secure section in BIOS
