@@ -20,7 +20,7 @@
 #### - Disable Fast Boot in Boot section in BIOS
 #### - Use Etcher to create bootable USB
 
-### Distros which boot fine: Ubuntu, Lubuntu, KaOS
+### Distros which boot fine: Ubuntu, Lubuntu, Xubuntu, KaOS
 ### Distros which do not want to boot: Elementary OS, GParted, YUMI created pendrives
 
 #### I'm waiting for my M2 SSD to check if this kernel works wih KaOS and if more distros would boot up I would check also with them. Anyway I will build custom kernel also for KaOS if this one doesn't work, because KaOS is more lightweight.
